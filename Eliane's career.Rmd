@@ -1,0 +1,124 @@
+---
+title: "Eliane's Career"
+author: "Eliane de Jesus Alves"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+# Aside
+
+![Eliane de Jesus Alves](https://avatars.githubusercontent.com/u/102531739?v=4){width="60%"}
+
+## Informações de contato {#contact}
+
+-   <i class="fa fa-linkedin"></i> [linkedin.com](https://www.linkedin.com/in/eliane-de-jesus-alves-b97501184/)
+-   <i class="fa fa-github"></i> [github.com/elianeLLL](https://github.com/elianeLLL)
+-   <i class="fa fa-phone"></i> [11 97515-7643](11%2097515-7643)
+-   <i class="fa fa-google"></i> [elianeja2004\@gmail.com](elianeja2004@gmail.com)
+
+## Skills {#skills}
+
+-   Experiência em treinamento de equipe de enfermagem.
+
+-   Experiência em montagem de recursos visuais e dinamicos atendendo a sequência de ensino.
+
+-   Experiência em formatação de documentos e relatórios em Rmarkdolwn.
+
+-   Montagem de teste e listas de presença em sistema RedCap.
+
+## Disclaimer {#disclaimer}
+
+Este currículo foi feito com o R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Última atualização `r Sys.Date()`.
+
+# Main
+
+## Eliane de Jesus Alves {#title}
+
+### Atualmente à procura de uma carreira de Enfermeiro de Educação Continuada
+
+## Preparação Acadêmica {data-icon="graduation-cap" data-concise="true"}
+
+### Pós Graduação em Urgência e Emergencia
+
+Latus Sensu/teórico
+
+Unieducacional - FAESB
+
+Concluíndo
+
+### Pós Graduação em UTI
+
+Latus Sensu/teórico
+
+Unieducacional - FAESB
+
+Concluíndo
+
+### MBA em Gestão da saúde com ênfase em administração hospitalar
+
+Latus Sensu/teórico
+
+Centro Universitário - FMU 
+
+Cursando
+
+### Graduação em Enfermagem
+
+Teórico/Prático
+
+Universidade Nove de Julho
+
+2020
+
+## Aperfeiçoamento Curricular {data-icon="laptop"}
+
+### Inglês
+
+Writing/conversation
+
+Wizard
+
+2021 à 2022
+
+### Curso de Auditores Internos em Sistema de Gestão da Qualidade.
+
+ISO 9001
+
+BUREAU VERITAS
+
+2022
+
+## Experiência Profissional {data-icon="suitcase"}
+
+### Instrutora de Educação Corporativa
+
+Hospitalar
+
+Prevent Senior
+
+desde 2022
+
+### Enfermeira Assistêncial
+
+Hospitalar
+
+Prevent Senior
+
+2020 à 2022
+
+## Outras Experiêcias Profissionais {data-icon="chalkboard-teacher"}
+
+### Técnico de Enfermagem.
+
+Hospitalar
+
+Prevent Senior
+
+2012 à 2020
